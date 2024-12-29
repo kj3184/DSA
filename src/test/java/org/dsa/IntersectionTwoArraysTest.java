@@ -1,10 +1,13 @@
+/**
+ * Info about this package doing something for package-info.java file.
+ */
 package org.dsa;
 
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class IntersectionTwoArraysTest {
 
