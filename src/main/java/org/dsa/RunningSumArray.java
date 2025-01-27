@@ -13,8 +13,8 @@ public class RunningSumArray {
         return 1 - minSum;
     }
 
-//    public static void main(String[] args) {
-//        int[] nums = {-3, 2, -3, 4, 2};
-//        System.out.println("Minimum starting value: " + minStartingValue(nums));
-//    }
+    //    public static void main(String[] args) {
+    //        int[] nums = {-3, 2, -3, 4, 2};
+    //        System.out.println("Minimum starting value: " + minStartingValue(nums));
+    //    }
 }
